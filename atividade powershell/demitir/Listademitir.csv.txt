@@ -1,0 +1,10 @@
+carlos_silva;Desenvolvimento
+ana_souza;Desenvolvimento
+bruno_costa;Desenvolvimento
+mariana_ferreira;Infraestrutura
+fernanda_oliveira;Backup
+ricardo_martins;Seguranca
+camila_rocha;Usuarios
+josé_lima;Usuarios
+tatiane_mendes;Producao
+paulo_andrade;Aplicacoes
